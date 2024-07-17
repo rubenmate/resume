@@ -1,6 +1,6 @@
 {
     "meta": {
-        "theme": "kendall"
+        "theme": "macchiato"
     },
     "basics": {
         "name": "Rubén Maté Iturriaga",
@@ -82,9 +82,7 @@
         {
             "keywords": [
                 "Git",
-                "CLI",
-                "Spring Boot",
-                "Java"
+                "CLI Tools"
             ],
             "level": "Intermediate",
             "name": "Basic"
