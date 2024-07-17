@@ -36,11 +36,11 @@
             "highlights": [
                 "React",
                 "Node",
-                "Docker",
-                "Three.js",
+                "Spring Boot",
+                "Docker for deploying the app infrastructure and apps",
                 "GIS (Geographical Information Systems)",
-                "Openlayers",
-                "Leaflet"
+                "Three.js to render GIS objects in 3D",
+                "Openlayers and Leaflet for map"
             ],
             "summary": "Working on both frontend and backend web development, with a strong emphasis on creating GIS systems based on the web environment. On the frontend, I've utilized technologies such as React, Three.js, Leaflet, and OpenLayers. For backend development, I've worked with Express and Spring Boot. Additionally, I have experience deploying applications and infrastructure using Docker.",
             "url": "https://www.linkedin.com/company/1173649",
