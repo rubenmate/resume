@@ -1,0 +1,100 @@
+{
+    "meta": {
+        "theme": "elegant"
+    },
+    "basics": {
+        "name": "Rubén Maté",
+        "label": "Full Stack Web Developer",
+        "image": "",
+        "email": "contacto@rubenmate.com",
+        "phone": "",
+        "url": "https://rubenmate.com",
+        "summary": "As a committed Software Engineering graduate, I have a deep passion for coding and love to tinker with tools, especially through the command-line interface. My interests mostly lie in web development, where I have mastered my skills and best practices to provide strong, effective, and scalable solutions. I really enjoy solving difficult problems and constantly strive to increase my knowledge and competencies. Be it responsive sites, web apps, or performance, I'm dedicated to making truly great digital.",
+        "website": "https://rubenmate.com",
+        "location": {
+            "countryCode": "ES",
+            "city": "Madrid"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "ruben-mate",
+                "url": "https://www.linkedin.com/in/ruben-mate/"
+            },
+            {
+                "network": "github",
+                "username": "rubenmate",
+                "url": "https://github.com/rubenmate/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Implemental Systems",
+            "position": "Full Stack Web Developer",
+            "startDate": "2023-08-31",
+            "highlights": [
+                "React",
+                "Node",
+                "Docker",
+                "Three.js",
+                "GIS (Geographical Information Systems)",
+                "Openlayers",
+                "Leaflet"
+            ],
+            "summary": "I have been working focusing on both frontend and backend web development, with a strong emphasis on creating GIS systems based on the web environment. On the frontend, I've utilized technologies such as React, Three.js, Leaflet, and OpenLayers. For backend development, I've worked with Express and Spring Boot. Additionally, I have experience deploying applications and infrastructure using Docker.",
+            "url": "https://www.linkedin.com/company/1173649",
+            "location": "Madrid, Community of Madrid, Spain"
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Universidad de Burgos",
+            "area": "Ingeniería Informática",
+            "studyType": "Grado en Ingeniería Informática",
+            "startDate": "2013-09-30",
+            "endDate": "2024-07-31",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+        {
+            "keywords": [
+                "HTML / JSX",
+                "CSS",
+                "Javascript / Typescript",
+                "React"
+            ],
+            "level": "Intermediate",
+            "name": "Frontend"
+        },
+        {
+            "keywords": [
+                "Node",
+                "Express",
+                "Spring Boot",
+                "Java"
+            ],
+            "level": "Junior",
+            "name": "Backend"
+        }
+    ],
+    "languages": [
+        {
+            "fluency": "Limited Working",
+            "language": "English"
+        },
+        {
+            "fluency": "Native Speaker",
+            "language": "Spanish"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": []
+}
