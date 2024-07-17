@@ -1,7 +1,9 @@
 {
     "dependencies": {
+        "jsonresume-theme-caffeine": "^1.2.3",
         "jsonresume-theme-kendall": "^0.2.0",
         "jsonresume-theme-macchiato": "^1.1.0",
+        "jsonresume-theme-relaxed": "^0.1.9",
         "jsonresume-theme-stackoverflow": "^2.0.2"
     }
 }
