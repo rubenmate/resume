@@ -1,11 +1,11 @@
 {
     "meta": {
-        "theme": "elegant"
+        "theme": "kendall"
     },
     "basics": {
-        "name": "Rubén Maté",
+        "name": "Rubén Maté Iturriaga",
         "label": "Full Stack Web Developer",
-        "image": "",
+        "image": "https://www.rubenmate.com/images/profileimage.png",
         "email": "contacto@rubenmate.com",
         "phone": "",
         "url": "https://rubenmate.com",
@@ -42,12 +42,11 @@
                 "Openlayers",
                 "Leaflet"
             ],
-            "summary": "I have been working focusing on both frontend and backend web development, with a strong emphasis on creating GIS systems based on the web environment. On the frontend, I've utilized technologies such as React, Three.js, Leaflet, and OpenLayers. For backend development, I've worked with Express and Spring Boot. Additionally, I have experience deploying applications and infrastructure using Docker.",
+            "summary": "Working on both frontend and backend web development, with a strong emphasis on creating GIS systems based on the web environment. On the frontend, I've utilized technologies such as React, Three.js, Leaflet, and OpenLayers. For backend development, I've worked with Express and Spring Boot. Additionally, I have experience deploying applications and infrastructure using Docker.",
             "url": "https://www.linkedin.com/company/1173649",
             "location": "Madrid, Community of Madrid, Spain"
         }
     ],
-    "volunteer": [],
     "education": [
         {
             "institution": "Universidad de Burgos",
@@ -59,9 +58,6 @@
             "courses": []
         }
     ],
-    "awards": [],
-    "certificates": [],
-    "publications": [],
     "skills": [
         {
             "keywords": [
@@ -82,6 +78,16 @@
             ],
             "level": "Junior",
             "name": "Backend"
+        },
+        {
+            "keywords": [
+                "Git",
+                "CLI",
+                "Spring Boot",
+                "Java"
+            ],
+            "level": "Intermediate",
+            "name": "Basic"
         }
     ],
     "languages": [
@@ -93,8 +99,5 @@
             "fluency": "Native Speaker",
             "language": "Spanish"
         }
-    ],
-    "interests": [],
-    "references": [],
-    "projects": []
+    ]
 }
