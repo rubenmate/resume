@@ -7,7 +7,7 @@
         "label": "Full Stack Web Developer",
         "image": "https://www.rubenmate.com/images/profileimage.png",
         "email": "contacto@rubenmate.com",
-        "phone": "",
+        "phone": "[redacted]",
         "url": "https://rubenmate.com",
         "summary": "As a committed Software Engineering graduate, I have a deep passion for coding and love to tinker with tools, especially through the command-line interface. My interests mostly lie in web development, where I have mastered my skills and best practices to provide strong, effective, and scalable solutions. I really enjoy solving difficult problems and constantly strive to increase my knowledge and competencies.",
         "website": "https://rubenmate.com",
@@ -32,7 +32,7 @@
         {
             "name": "Implemental Systems",
             "position": "Full Stack Web Developer",
-            "startDate": "2023-08-31",
+            "startDate": "2023-08-01",
             "highlights": [
                 "Frontend development with React, using Tailwind CSS, Material UI, Next UI, and Shadcn UI",
                 "Backend development with Express.js and Spring Boot",
