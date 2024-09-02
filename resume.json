@@ -1,6 +1,6 @@
 {
     "meta": {
-        "theme": "stackoverflow"
+        "theme": "professional"
     },
     "basics": {
         "name": "Rubén Maté Iturriaga",
@@ -39,9 +39,10 @@
                 "Experience in deploying applications and infrastructure using Docker",
                 "Specialization in GIS (Geographical Information Systems)",
                 "Three.js for rendering GIS objects in 3D",
-                "OpenLayers and Leaflet for interactive mapping"
+                "OpenLayers and Leaflet for interactive mapping",
+                "Design and implementation of microservices architecture for scalable and maintainable backend systems"
             ],
-            "summary": "Working on both frontend and backend web development, with a strong emphasis on creating GIS systems based on the web environment. On the frontend, I've utilized technologies such as React, Three.js, Leaflet, and OpenLayers. For backend development, I've worked with Express and Spring Boot. Additionally, I have experience deploying applications and infrastructure using Docker.",
+            "summary": "Working on both frontend and backend web development, with a strong emphasis on creating GIS systems based on the web environment. On the frontend, I've utilized technologies such as React, Three.js, Leaflet, and OpenLayers. For backend development, I've worked with Express and Spring Boot. Additionally, I have experience deploying applications and infrastructure using Docker, and I've designed and implemented microservices architecture to ensure scalability and maintainability.",
             "url": "https://www.linkedin.com/company/1173649",
             "location": "Madrid, Community of Madrid, Spain"
         }
@@ -63,7 +64,6 @@
                 "Javascript / Typescript",
                 "React"
             ],
-            "level": "Junior",
             "name": "Frontend"
         },
         {
@@ -71,18 +71,50 @@
                 "Node",
                 "Express",
                 "Spring Boot",
-                "Java"
+                "Java",
+                "Maven / Gradle"
             ],
-            "level": "Junior",
             "name": "Backend"
         },
         {
             "keywords": [
                 "Git",
-                "CLI Tools"
+                "CLI Tools",
+                "Agile Methodologies",
+                "Scrum"
             ],
-            "level": "Intermediate",
             "name": "Basic"
+        },
+        {
+            "keywords": [
+                "Docker",
+                "Continuous Integration (CI)",
+                "Continuous Deployment (CD)"
+            ],
+            "name": "DevOps"
+        },
+        {
+            "keywords": [
+                "Testing",
+                "Unit Testing",
+                "Integration Testing"
+            ],
+            "name": "Quality Assurance"
+        },
+        {
+            "keywords": [
+                "Object-Oriented Programming (OOP)",
+                "Functional Programming",
+                "Microservices Architecture"
+            ],
+            "name": "Programming Paradigms"
+        },
+        {
+            "keywords": [
+                "RESTful APIs",
+                "API Design"
+            ],
+            "name": "APIs"
         }
     ],
     "languages": [
