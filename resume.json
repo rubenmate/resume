@@ -33,6 +33,7 @@
             "name": "Implemental Systems",
             "position": "Full Stack Web Developer",
             "startDate": "2023-08-01",
+            "endDate": "2024-08-31",
             "highlights": [
                 "Frontend development with React, using Tailwind CSS, Material UI, Next UI, and Shadcn UI",
                 "Backend development with Express.js and Spring Boot",
@@ -45,6 +46,22 @@
             "summary": "Working on both frontend and backend web development, with a strong emphasis on creating GIS systems based on the web environment. On the frontend, I've utilized technologies such as React, Three.js, Leaflet, and OpenLayers. For backend development, I've worked with Express and Spring Boot. Additionally, I have experience deploying applications and infrastructure using Docker, and I've designed and implemented microservices architecture to ensure scalability and maintainability.",
             "url": "https://www.linkedin.com/company/1173649",
             "location": "Madrid, Community of Madrid, Spain"
+        },
+        {
+            "name": "Globant",
+            "position": "Backend Software Developer",
+            "startDate": "2024-09-01",
+            "highlights": [
+                "Worked on an internal application for Iberia flight crew (TCP) employees",
+                "Backend Development: Designed and implemented RESTful APIs and microservices using Java and Spring Boot, integrating with SQL databases",
+                "Frontend Development: Built an iOS app using Angular and Ionic to deliver a native-like experience",
+                "Cloud Infrastructure: Deployed and managed application components on AWS to ensure scalability and reliability",
+                "Cross-functional Collaboration: Worked closely with product owners and teams to deliver features aligned with business needs"
+            ],
+            "summary": "Developed and maintained an internal app for Iberia’s flight crew, focusing on backend APIs, frontend mobile app, and cloud deployment to improve operational workflows.",
+            "url": "https://www.linkedin.com/company/globant",
+            "location": "Madrid, Community of Madrid, Spain"
+
         }
     ],
     "education": [
@@ -58,63 +75,68 @@
     ],
     "skills": [
         {
+            "name": "Backend",
             "keywords": [
+                "Java",
+                "Spring Boot",
+                "SQL Databases",
+                "JUnit",
+                "Maven / Gradle",
+                "Express",
+                "Node"
+            ]
+        },
+        {
+            "name": "Frontend",
+            "keywords": [
+                "Angular",
+                "Ionic",
+                "React",
                 "HTML / JSX",
                 "CSS",
-                "Javascript / Typescript",
-                "React"
-            ],
-            "name": "Frontend"
+                "Javascript / Typescript"
+            ]
         },
         {
+            "name": "Cloud & DevOps",
             "keywords": [
-                "Node",
-                "Express",
-                "Spring Boot",
-                "Java",
-                "Maven / Gradle"
-            ],
-            "name": "Backend"
+                "AWS",
+                "Docker",
+                "Continuous Integration (CI)",
+                "Continuous Deployment (CD)"
+            ]
         },
         {
+            "name": "Quality Assurance",
+            "keywords": [
+                "Testing",
+                "Unit Testing",
+                "Integration Testing"
+            ]
+        },
+        {
+            "name": "Programming Paradigms",
+            "keywords": [
+                "Object-Oriented Programming (OOP)",
+                "Functional Programming",
+                "Microservices Architecture"
+            ]
+        },
+        {
+            "name": "Basic",
             "keywords": [
                 "Git",
                 "CLI Tools",
                 "Agile Methodologies",
                 "Scrum"
-            ],
-            "name": "Basic"
+            ]
         },
         {
-            "keywords": [
-                "Docker",
-                "Continuous Integration (CI)",
-                "Continuous Deployment (CD)"
-            ],
-            "name": "DevOps"
-        },
-        {
-            "keywords": [
-                "Testing",
-                "Unit Testing",
-                "Integration Testing"
-            ],
-            "name": "Quality Assurance"
-        },
-        {
-            "keywords": [
-                "Object-Oriented Programming (OOP)",
-                "Functional Programming",
-                "Microservices Architecture"
-            ],
-            "name": "Programming Paradigms"
-        },
-        {
+            "name": "APIs",
             "keywords": [
                 "RESTful APIs",
                 "API Design"
-            ],
-            "name": "APIs"
+            ]
         }
     ],
     "languages": [
